@@ -1,7 +1,7 @@
 # Complementary Attention Self-Distillation(CASD) -(In progress)
 
 This is the official implementation of the paper: 
-- Zeyi Huang, Yang Zou, Vijayakumar Bhagavatula, Dong Huang, Comprehensive Attention Self-Distillationfor Weakly-Supervised Object Detection, Neural Information Processing Systems(NeurIPS), 2020. [PDF]
+- Zeyi Huang*, Yang Zou*, Vijayakumar Bhagavatula, Dong Huang, Comprehensive Attention Self-Distillationfor Weakly-Supervised Object Detection, Neural Information Processing Systems(NeurIPS), 2020. (* indicates equal contribution) [PDF] 
 
 ### Citation: 
 
